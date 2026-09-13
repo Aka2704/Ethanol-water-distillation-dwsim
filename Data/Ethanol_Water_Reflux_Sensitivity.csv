@@ -1,0 +1,32 @@
+Reflux Ratio,Distillate Flow (mol/s),Distillate Ethanol (mol%),Bottoms Flow (mol/s),Bottoms Ethanol (mol%),Condenser Duty (kW),Reboiler Duty (kW),Ethanol Recovery (%),,Total Energy Duty
+1.5,25,79.43258254,75,40.18861727,2463.282018,2496.581418,39.71629127,,4959.863436
+2,25,80.69203531,75,39.77032639,2952.864902,2985.78341,40.34601766,,5938.648311
+2.5,25,81.53352603,75,39.48733658,3442.636137,3475.274062,40.76676301,,6917.910198
+3,25,82.1051578,75,39.29435651,3932.607067,3965.051864,41.0525789,,7897.658932
+3.5,25,82.51903162,75,39.1578629,4422.708608,4455.026381,41.25951581,,8877.734989
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,Parameter,Selected condition,,,,,,
+,,Selected reflux ratio,2.5,,,,,,
+,,Distillate ethanol purity,81.53 mol%,,,,,,
+,,Ethanol recovery,40.77%,,,,,,
+,,Total energy duty,6917.91 kW,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,Selected operating point: R = 2.5. This condition provides a practical balance between ethanol separation performance and energy consumption within the investigated reflux-ratio range.,,,,,,,
