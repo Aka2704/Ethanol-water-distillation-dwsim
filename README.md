@@ -101,11 +101,11 @@ calculation procedure across all operating cases.
 
 ### Ethanol Recovery
 
-![Ethanol Recovery vs Reflux Ratio](Figures/Ethanol_recovery_vs_reflux ratio.png)
+![Ethanol Recovery vs Reflux Ratio](Figures/Ethanol_recovery_vs_reflux_ratio.png)
 
 ### Distillate Ethanol Purity
 
-![Distillate Ethanol Purity vs Reflux Ratio](Figures/purity_vs_reflux ratio.png)
+![Distillate Ethanol Purity vs Reflux Ratio](Figures/purity_vs_reflux_ratio.png)
 
 ## Discussion
 
