@@ -93,19 +93,6 @@ calculation procedure across all operating cases.
 | 3.0 | 82.11 | 39.29 | 7897.66 | 41.05 |
 | 3.5 | 82.52 | 39.16 | 8877.73 | 41.26 |
 
-## Sensitivity Analysis
-
-### Energy Consumption
-
-![Energy Duty vs Reflux Ratio](Figures/Total_energy_vs_reflux.png)
-
-### Ethanol Recovery
-
-![Ethanol Recovery vs Reflux Ratio](Figures/Ethanol_recovery_vs_reflux_ratio.png)
-
-### Distillate Ethanol Purity
-
-![Distillate Ethanol Purity vs Reflux Ratio](Figures/purity_vs_reflux_ratio.png)
 
 ## Discussion
 
