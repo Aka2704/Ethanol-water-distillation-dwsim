@@ -97,15 +97,15 @@ calculation procedure across all operating cases.
 
 ### Energy Consumption
 
-![Energy Duty vs Reflux Ratio](Figures/Total energy vs reflux.png)
+![Energy Duty vs Reflux Ratio](Figures/Total_energy_vs_reflux.png)
 
 ### Ethanol Recovery
 
-![Ethanol Recovery vs Reflux Ratio](Figures/ Ethanol recovery vs reflux ratio.png)
+![Ethanol Recovery vs Reflux Ratio](Figures/Ethanol_recovery_vs_reflux ratio.png)
 
 ### Distillate Ethanol Purity
 
-![Distillate Ethanol Purity vs Reflux Ratio](Figures/purity vs reflux ratio.png)
+![Distillate Ethanol Purity vs Reflux Ratio](Figures/purity_vs_reflux ratio.png)
 
 ## Discussion
 
